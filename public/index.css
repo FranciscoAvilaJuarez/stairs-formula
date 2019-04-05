@@ -1,0 +1,11 @@
+body {
+  background-image: url("./stair.jpg");
+  background-size: cover;
+  background-color: red;
+ }
+ .Test {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
