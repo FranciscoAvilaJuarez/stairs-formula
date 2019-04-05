@@ -1,5 +1,33 @@
 .Rise{
-margin-top: 400px;
-margin-left: 560px;
-text-align: center
+  margin-top: 400px;
+  margin-left: 60px;
+  text-align: center;
+  position: absolute;
+}
+
+.Risebox{
+  margin-top: 460px;
+  margin-left: 60px;
+  text-align: center;
+  position: absolute;
+}
+
+.Run{
+  margin-top: 800px;
+  margin-left: 560px;
+  text-align: center;
+  position: absolute;
+}
+
+.Runbox{
+  margin-top: 830px;
+  margin-left: 720px;
+  text-align: center;
+  position: absolute;
+}
+
+body{
+  color: red;
+  font-size: 2em;
+
 }
